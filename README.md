@@ -3,7 +3,7 @@ This incredibly well named project is a macro-based Excel file made to manage to
 
 Everyone uses Excel already, let's just automate that ...
 
-Features :
+##Features :
 - Automatically randomize player pool
 - Custom number of player per lobby
 - Automatically and randomly assign players to a lobby
@@ -11,7 +11,7 @@ Features :
 - Free communication through a Discord Webhook
 - Can automatically communicate Lobbies to Discord through Webhook (Text)
 
-Potential Roadmap :
+##Potential Roadmap :
 - Better Elo calculation
 - Screenshot of brackets to Discord
 - Double Elimination & Swiss format
