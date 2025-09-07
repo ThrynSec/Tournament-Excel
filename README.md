@@ -5,10 +5,7 @@ Everyone uses Excel already, let's just automate that ...
 
 ## How to use :
 - Change the Webhook URL in the code, in the Public Const in beggining of the VB Code
-- Put a SIMPLE list of username starting on A1 and going downward like so
-UserA
-UserB
-UserC
+- Put a SIMPLE list of username starting on A1 and going downward
 - Enjoy the magic
 
 ## Features :
