@@ -17,6 +17,7 @@ Everyone uses Excel already, let's just automate that ...
 - Can automatically communicate Lobbies to Discord through Webhook (Text)
 
 ## Potential Roadmap :
+- BUGFIX : Being able to enter how many players per lobby will advance to next round 
 - Better Elo calculation
 - Screenshot of brackets to Discord
 - Double Elimination & Swiss format
